@@ -1,4 +1,5 @@
-<h1 align="center",color:"white",background-color:"black";>Hi 👋, I'm Pradhuman Singh Naruka</h1>
+![logo](https://github.com/PradhumanSinghNaruka/PradhumanSinghNaruka/blob/main/logo.png)
+<h1 align="center" style="color:"skyblue";>Hi 👋, I'm Pradhuman Singh Naruka</h1>
 <h3 align="center",color:"skyblue">A passionate front-end developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradhumansinghnaruka&label=Profile%20views&color=0e75b6&style=flat" alt="pradhumansinghnaruka" /> </p>
